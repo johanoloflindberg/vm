@@ -62,3 +62,10 @@ Copyright 2015 thoughtbot, inc.
 
 The design of a robot and thoughtbot
 are registered trademarks of thoughtbot, inc.
+
+---------
+
+[![Stories in Ready](https://badge.waffle.io/webbab/vm.png?label=ready&title=Ready)](http://waffle.io/webbab/vm)
+
+
+
